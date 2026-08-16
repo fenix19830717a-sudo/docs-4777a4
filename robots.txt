@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-gig7z2.indocuan-pro.cfd/sitemap.xml
